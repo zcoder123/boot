@@ -10,4 +10,8 @@ public class Animal {
     public String play(){
         return "play";
     }
+    public String sing(){
+        return "play";
+    }
+    
 }
