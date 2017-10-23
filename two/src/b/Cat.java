@@ -12,4 +12,8 @@ public class Cat  extends Animal{
     public String play(){
         return "play1";
     }
+    public String sing(){
+        return "sing1";
+    }
+    
 }
